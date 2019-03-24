@@ -1,0 +1,10 @@
+E:\SENECA\seneca usb\seneca\OLS655\Lab Assignment 1\MagazineClient\MagazineClient\bin\MagazineClient.dll
+E:\SENECA\seneca usb\seneca\OLS655\Lab Assignment 1\MagazineClient\MagazineClient\bin\MagazineClient.pdb
+E:\SENECA\seneca usb\seneca\OLS655\Lab Assignment 1\MagazineClient\MagazineClient\obj\Debug\MagazineClient.csprojResolveAssemblyReference.cache
+E:\SENECA\seneca usb\seneca\OLS655\Lab Assignment 1\MagazineClient\MagazineClient\obj\Debug\MagazineClient.dll
+E:\SENECA\seneca usb\seneca\OLS655\Lab Assignment 1\MagazineClient\MagazineClient\obj\Debug\MagazineClient.pdb
+D:\SENECA\seneca usb\seneca\OLS655\MagazineClient\MagazineClient\bin\MagazineClient.dll
+D:\SENECA\seneca usb\seneca\OLS655\MagazineClient\MagazineClient\bin\MagazineClient.pdb
+D:\SENECA\seneca usb\seneca\OLS655\MagazineClient\MagazineClient\obj\Debug\MagazineClient.csprojResolveAssemblyReference.cache
+D:\SENECA\seneca usb\seneca\OLS655\MagazineClient\MagazineClient\obj\Debug\MagazineClient.dll
+D:\SENECA\seneca usb\seneca\OLS655\MagazineClient\MagazineClient\obj\Debug\MagazineClient.pdb
